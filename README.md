@@ -5,7 +5,7 @@
 	<ol>
 		<li>Primeiro, certifique-se de ter o SDK do Google Cloud instalado em sua máquina e faça login na sua conta do GCP.
 		<br>
-		Abra o terminal ou prompt de comando e execute o seguinte comando para criar um Instance Template:
+		<li>Abra o terminal ou prompt de comando e execute o seguinte comando para criar um Instance Template:
 		<li>
 	</ol>
 </table>
